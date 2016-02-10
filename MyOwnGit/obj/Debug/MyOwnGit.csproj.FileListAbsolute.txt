@@ -1,0 +1,6 @@
+C:\Work\GitHub\MyOwnGit\MyOwnGit\MyOwnGit\bin\Debug\MyOwnGit.exe.config
+C:\Work\GitHub\MyOwnGit\MyOwnGit\MyOwnGit\bin\Debug\MyOwnGit.exe
+C:\Work\GitHub\MyOwnGit\MyOwnGit\MyOwnGit\bin\Debug\MyOwnGit.pdb
+C:\Work\GitHub\MyOwnGit\MyOwnGit\MyOwnGit\obj\Debug\MyOwnGit.csprojResolveAssemblyReference.cache
+C:\Work\GitHub\MyOwnGit\MyOwnGit\MyOwnGit\obj\Debug\MyOwnGit.exe
+C:\Work\GitHub\MyOwnGit\MyOwnGit\MyOwnGit\obj\Debug\MyOwnGit.pdb
